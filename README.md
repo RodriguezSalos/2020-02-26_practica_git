@@ -1,4 +1,4 @@
-# 2020-02-26_practica_git
+# 2020-02-26_practica_git_Salo
 Practica_review
 **Hello Salo** 
 
