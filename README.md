@@ -2,6 +2,6 @@
 Practica_review
 **Hello Salo** 
 
-# "Hello Practica GIT"
+# "Hello Practica GIT" :grinning:
 ## This is an H2
 ###### This is an h6
