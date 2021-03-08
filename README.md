@@ -5,3 +5,4 @@ Practica_review
 # "Hello Practica GIT" :grinning:
 ## This is an H2  :zany_face:
 ###### This is an h6 :metal:
+:green_circle: :yellow_circle:  :red_circle:
