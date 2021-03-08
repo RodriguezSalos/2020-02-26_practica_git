@@ -2,6 +2,6 @@
 Practica_review
 **Hello Salo** 
 
-# "Hello Practica GIT"<h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# "Hello Practica GIT"
+## This is an H2
+###### This is an h6
