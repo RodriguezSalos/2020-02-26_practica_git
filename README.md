@@ -3,5 +3,5 @@ Practica_review
 **Hello Salo** 
 
 # "Hello Practica GIT" :grinning:
-## This is an H2
-###### This is an h6
+## This is an H2  :zany_face:
+###### This is an h6 :metal:
